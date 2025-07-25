@@ -4,4 +4,4 @@ As part of my internship with United Network of Professionals (UNP Education), I
 
 PROJECT DASHBOARD PDF FILE:https://drive.google.com/file/d/1kVp5SiFIOm1MdrJgXysE2Fs9U6egFNfR/view?usp=sharing
 
-PROJECT DASHBOARD PBIX FILE:https://drive.google.com/drive/folders/1zJfhKVLSn4vByJpg126Y8CgGQ4bGlSJ7?usp=sharing
+PROJECT DASHBOARD PBIX FILE:https://drive.google.com/file/d/141tNwX4uLNfEnvhAaFEyOwpSZ3Qfa-Uh/view?usp=sharing
